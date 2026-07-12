@@ -54,7 +54,7 @@ UberEatsClone/
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ubereats-clone-swiftui.git
+   https://github.com/alex-hort/UberEats
    ```
 2. Open `UberEatsClone.xcodeproj` in **Xcode 16+**
 3. Select an iOS 17+ simulator and press **⌘R**
@@ -72,11 +72,4 @@ UberEatsClone/
 - [ ] Animations on add-to-cart
 - [ ] Unit & snapshot tests
 
-## ⚠️ Disclaimer
 
-This is a **portfolio / educational project**. It is not affiliated with Uber Technologies Inc. All brand names and trade dress belong to their respective owners.
-
-## 👤 Author
-
-**Your Name** — iOS Developer
-[LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://your-site.com)
